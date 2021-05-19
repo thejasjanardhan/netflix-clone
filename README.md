@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ##DEMO
 
-https://netflix-build-aeef3.firebaseapp.com/
+https://netflix-build-aeef3.web.app/
 
 ## Available Scripts
 
